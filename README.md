@@ -1,3 +1,3 @@
-# DBMS-MINIPROJECT
+# ONLINE FOOD ORDERING MANAGEMENT SYSTEM
 Many restaurants is storing all of their data in manual way. They have huge number of customers daily. So because large number of customers, they need the help of some features so they can maintain and stores the records accurately. For managers it is difficult to view the tables, orders, kitchen, reception and the counter simultaneously. They need full-fledged software to maintain their day to day transactions, orders and also regular update on records, cash transaction, daily staffs reports,  The online food ordering system sets up a food menu online and customers can easily place the order as per they like. Also, the online customers can easily track their orders.
-![](screenshot(8).png)
+![](Screenshot (8).png)
